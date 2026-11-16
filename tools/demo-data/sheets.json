@@ -1,0 +1,17 @@
+{
+ "hero-trip": "# Japan trip\nflights = $1,240\nhotel = 6 nights * ¥18,000 in USD\nrail pass = ¥50,000 in USD\nfood = $45 a day for 7 days\nsushi class $85 #fun\ntotal\ntotal in EUR",
+ "hero-invoice": "# Freelance invoice\ndesign = 32 hours at $85/hour\ncoding = 41 hours at $95/hour\nhosting = $29 a month for 12 months\ntravel = 120 miles at $0.67/mile\nnet = subtotal\nnet + 20% VAT",
+ "hero-words": "# In plain words\n30 is what % of 120\n20% off $80\naverage of 12, 18 and 27\n4 is to 10 as 6 is to what\n$499 is 20% on what\n22 rounded up to nearest 5\nhalf of $250",
+ "hero-kitchen": "# Sunday baking\n250 g butter in cups\n2 cups flour in grams\n180 °C in °F\n1 litre honey in kg\ncost = $18.50\ncost / 24 cookies",
+ "hero-money": "# Saving up\n$2,000 at 5% for 10 years\nmonthly repayment on $20,000 over 5 years at 4%\n$60,000/year is what per month\ntime from 1k to 2k at 7% growth per year\nannual return on $1,000 invested $2,000 returned after 6 years",
+ "theme": "# Weekend away\nbudget = $1,500\nhotel = 2 nights at $189/night\ntrain = €64 * 2 in USD\ndinner $86 + 18% #food\nbudget - hotel - train",
+ "dates": "days until Dec 25\n3pm in Tokyo\ntime in New York\nworkdays between June 1 and June 30\nEaster 2027\n9:15am + 2h 50m",
+ "exact": "0.1 + 0.2\n2^64\n12,345,678,901,234,567,890 + 1",
+ "yesno": "earnings = $45k\nif earnings > $30k then tax = 20% else tax = 5%\nearnings × tax",
+ "funcs": "tip(bill, pct) = bill * pct / 100\ntip($80, 15)\narea(w; h) = w * h\narea(3 m; 4 m)",
+ "units2": "5 inches in cm\n3 km in miles\n60 mph in km/h\n250 g butter in cups\n2 cups flour in grams\n180 °C in °F",
+ "money2": "$2,000 at 5% for 10 years\nmonthly repayment on $20,000 over 5 years at 4%\n40 hours at $25/hour\n$15 a day for a year\n$60,000/year is what per month",
+ "totals": "rent = $1,200\nfood = $450\nrent + food\nprev × 12\nHotel $60 #jude\nTaxi $25 #jude\n#jude total",
+ "words2": "30 is what % of 120\n20% off $80\naverage of 12, 18 and 27\n4 is to 10 as 6 is to what\n22 rounded up to nearest 5",
+ "currency2": "€250 in USD\n£1,200 in INR\n¥18,000 in EUR\n0.25 BTC in USD\n$500 in CAD"
+}
